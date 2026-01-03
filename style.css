@@ -27,7 +27,7 @@ body {
 }
 
 .bonding .bondingelem {
-    transform: translateY(100%);
+    transform: translateY(0);
 }
 
 #main {
